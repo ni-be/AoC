@@ -29,7 +29,6 @@ In this schematic, two numbers are not part numbers because they are not adjacen
 
 Of course, the actual engine schematic is much larger. What is the sum of all of the part numbers in the engine schematic?
 
-Your puzzle answer was 540212.
 --- Part Two ---
 
 The engineer finds the missing part and installs it in the engine! As the engine springs to life, you jump in the closest gondola, finally ready to ascend to the water source.
@@ -59,6 +58,5 @@ In this schematic, there are two gears. The first is in the top left; it has par
 
 What is the sum of all of the gear ratios in your engine schematic?
 
-Your puzzle answer was 87605697.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
