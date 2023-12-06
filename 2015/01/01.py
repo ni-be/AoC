@@ -12,3 +12,4 @@ with open('01.txt', 'r') as f:
 
         if floor == -1:
             print(count)
+    print(floor)
