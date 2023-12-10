@@ -32,9 +32,9 @@ def part2(path):
 def part1(game, start):
     count = 1
     if start[1] > 10:
-        move = (0, -1)  # sample
+        move = (0, -1)
     else:
-        move = (0, 1)  # input
+        move = (0, 1)
 
     location = (start[0] + move[0], start[1]+move[1])
     history = [start, location]
